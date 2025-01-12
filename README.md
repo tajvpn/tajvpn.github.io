@@ -1,2 +1,2 @@
-# tajvpn.github.io
+# Taj VPN
 https://t.me/tajvpnapp
